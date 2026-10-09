@@ -130,6 +130,13 @@ android-apk-reverse-skills/
 去掉渠道 SDK 的弹窗、替换自己的署名，都应在你有权修改该应用的前提下进行；
 **不要用它去篡改他人应用后分发**。
 
+## 相关仓库
+
+同一系列的其他技能包（各自独立，可单独使用）：
+
+- **[unity-game-localization-skills](https://github.com/lueuru/unity-game-localization-skills)** —— Unity 老游戏汉化三件套 —— DLL 层文本、资源层文本、BMFont 中文位图字体
+- **[agent-engineering-skills](https://github.com/lueuru/agent-engineering-skills)** —— AI Agent 工程实践 —— 验收判据防假通过、仓库主页美化、Windows 清理审计、DSH 排障与会话复盘
+
 ## 许可证
 
 [MIT](./LICENSE) —— 自由使用、修改、再分发，保留版权声明即可。
